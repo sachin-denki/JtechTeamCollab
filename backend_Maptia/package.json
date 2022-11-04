@@ -1,0 +1,23 @@
+{
+  "name": "backend_maptia",
+  "version": "1.0.0",
+  "description": "backend using mongo for maptia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Shaista-Tanveer/JtechTeamCollab.git"
+  },
+  "keywords": [
+    "blog",
+    "site"
+  ],
+  "author": "Jtech KLB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaista-Tanveer/JtechTeamCollab/issues"
+  },
+  "homepage": "https://github.com/Shaista-Tanveer/JtechTeamCollab#readme"
+}
