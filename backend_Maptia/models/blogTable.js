@@ -11,7 +11,7 @@ const blogSchema = mongoose.Schema({
        Country: { type: String, required: true },
        days: { type: String, required: true },
        readTime: { type: Number, required: true },
-       bookMark: { type: Boolean, required: true }
+
 });
 
 module.exports = mongoose.model('blogTable', blogSchema)
